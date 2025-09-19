@@ -1,0 +1,592 @@
+<resources>
+    <string name="app_name">Akimeji</string>
+    <string name="crop_image_activity_title"></string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="not_implemented">Not implemented in this device</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="fetch_notification_download_eta_sec">%1$ds left</string>
+    <string name="fetch_notification_download_eta_min">%1$dm %2$ds left</string>
+    <string name="fetch_notification_download_eta_hrs">%1$dh %2$dm %3$ds left</string>
+    <string name="fetch_notification_download_complete">Complete</string>
+    <string name="fetch_notification_download_failed">Failed</string>
+    <string name="fetch_notification_download_pause">Pause</string>
+    <string name="fetch_notification_download_resume">Resume</string>
+    <string name="fetch_notification_download_retry">Retry</string>
+    <string name="fetch_notification_download_cancel">Cancel</string>
+    <string name="fetch_notification_download_paused">Paused</string>
+    <string name="fetch_notification_download_starting">Starting</string>
+    <string name="fetch_notification_download_downloading">Downloading</string>
+    <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
+    <string name="fetch_notification_default_channel_name">Downloads</string>
+
+    <string name="deletemessage">Delete?</string>
+
+    <string name="label_default">Default</string>
+    <string name="pref_category_theme">Theme</string>
+    <string name="pref_theme_mode">Dark mode</string>
+    <string name="theme_system">Follow system</string>
+    <string name="theme_light">Off</string>
+    <string name="theme_dark">On</string>
+    <string name="pref_app_theme">App theme</string>
+    <string name="theme_monet">Dynamic</string>
+    <string name="theme_greenapple">Green Apple</string>
+    <string name="theme_midnightdusk">Midnight Dusk</string>
+    <string name="theme_laserlemon">Laser Lemon</string>
+    <string name="theme_strawberrydaiquiri">Strawberry Daiquiri</string>
+    <string name="theme_tako">Tako</string>
+    <string name="theme_tealturquoise">Teal &amp; Turquoise</string>
+    <string name="theme_yinyang">Yin &amp; Yang</string>
+    <string name="theme_yotsuba">Yotsuba</string>
+    <string name="pref_dark_theme_pure_black">Pure black dark mode</string>
+
+    <string name="myprofile">My profile</string>
+    <string name="akimejilist">Akimeji List</string>
+    <string name="servers">Rooms</string>
+    <string name="padorulist">Padoru List</string>
+    <string name="purchaseshimeji101title">Purchase shimeji101 💊 </string>
+    <string name="imagehomebuttonshimeji">Thank you all for your support now we can place the shimejis for free as they are on pc and browser as it always should be, thanks for helping to grow this application that every time we strive to be better, under the hood we only put the best of the best, we always update and no deprecations in the code, we managed to diversify the app but we will not abandon the shimejis or padorus, the previous buyers who were the first to help this application to continue developing will no longer have ads in the sections of akimeji and padorus, let\'s keep growing together.</string>
+
+    <string name="accountstitle">The emails you place will have a premium just like you!</string>
+    <string name="accountsmessage">You can place up to 5 different accounts to obtain premium, you will have to enter every 30 days for these accounts to maintain their premium status just like you. </string>
+    <string name="pasarondias">30 days passed, log in to your father account to continue using premium features</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="addpremiumaccount">Set premium accounts</string>
+
+    <string name="account">Accounts</string>
+    <string name="game">Game</string>
+    <string name="accountuser">Users Accounts</string>
+
+    <string name="claps">🤝</string>
+    <string name="claps2">👍</string>
+    <string name="thanksus">Thanks to you I can continue with the development of this application 🥳</string>
+    <string name="thanksuss">Thanks to you I can continue with the development of this application 💕</string>
+    <string name="syncdatabodynonpremium">Get a subscription so your favorites are saved online ☁️ and restore them if they were accidentally deleted 👍</string>
+    <string name="syncdatafinish">Restoration completed</string>
+    <string name="youalready">You have a subscription, thanks!</string>
+    <string name="shimeji101">Thanks for purchasing!</string>
+
+    <string name="syncdatastartbody">Once started, wait a few moments, make sure you have a good internet connection and do not exit the application to see the changes reflected, in case there is nothing to restore, nothing will happen</string>
+
+    <string name="syncdatastart">Start Restore 📥 </string>
+    <string name="syncdatastarts">Start</string>
+    <string name="syncdata">Restore your favorites 📥 </string>
+
+    <string name="danboorufavorites">Danbooru Favorites</string>
+    <string name="wallhavenfavorites">WallHaven Favorites</string>
+
+    <string name="titlefeaturepremiumfavorite">Premium Feature 🥇</string>
+    <string name="messagefeaturepremiumfavorite">You reached the limit of 2 favorites buy a subscription to be unlimited, backup your data and help this app stay great</string>
+    <string name="viewandAd">view a rewarded ad to favorite and get 100 candies</string>
+
+    <string name="message">Message</string>
+
+    <string name="titlefeature">Premium Feature 🥇</string>
+
+    <string name="muchasgracias">Thanks you!</string>
+
+    <string name="suscribetoenableit">Subscribe to enable it!</string>
+    <string name="taphere">Tap here!</string>
+
+    <string name="thanksinicio">A help guide to make this feature work is at the end of this page</string>
+
+    <string name="notsetdefault4">Wallpaper flex time </string>
+    <string name="notsetdefault5">minutes, minimum is 5 minutes</string>
+
+    <string name="notsetdefault3">Not set, default 5 minutes</string>
+
+    <string name="notsetdefault1">Change wallpaper every</string>
+    <string name="notsetdefault2"> minutes, minimum is 15 minutes (google policy)</string>
+    <string name="notsetdefault">Not set, default 15 minutes</string>
+
+    <string name="messagepremiumtitle">A great start</string>
+    <string name="messagepremium">Thanks to our subscribers we have created this new feature, we tested it for a while and we can assure you that it is the best, you will fall in love with the high quality randoms wallpapers, we use it daily ❤️</string>
+
+    <string name="randomWallpaperpurchased">Random Wallpaper</string>
+    <string name="settingsrandompurchased">Settings for random wallpapers</string>
+    <string name="randomWallpaper">Random Wallpaper 🔒</string>
+    <string name="settingsrandom">Settings for random wallpapers 🔒</string>
+
+    <string name="tryopenauto">Try open auto start</string>
+
+    <string name="tryopenbattery">Try open battery optimization</string>
+    <string name="thisbuttondoesno">This button does nothing if your phone is incompatible, please search it manually</string>
+
+    <string name="helpwallpaperbody">Try disable battery optimization for this app in settings->battery optimization->show all apps->akimeji</string>
+    <string name="helpwallpaper">Help</string>
+
+    <string name="smartwallpaperbody">Change the wallpaper depending on the time of day to ensure that an image with a white background never appears at night, active by default</string>
+    <string name="smartwallpaper">Smart wallpaper</string>
+
+    <string name="enablerandomwallpaperbody">This change your wallpaper</string>
+    <string name="enablerandomwallpaper">Enable random wallpaper</string>
+
+    <string name="changewallpaperchange">Tap this to change your homescreen wallpaper now!, not close the app during this work</string>
+    <string name="changewallpaper">Change wallpaper now</string>
+
+    <string name="settimewallpaperchange">This change your wallpaper each 15 minutes, min value is 15 (Google policy)</string>
+    <string name="settimewallpaper">Set time to change wallpaper</string>
+
+    <string name="setwallpaperflextimebody">Flexible time intelligently takes care of finding the best time to change it during the set period</string>
+    <string name="setwallpaperflextime">Set wallpaper flex time</string>
+
+    <string name="changeLockScreenbody">Only change wallpaper in LockScreen, android 7 and up</string>
+    <string name="changeLockScreen">Change LockScreen</string>
+
+    <string name="changebothscreensbody">Change wallpaper HomeScreen and LockScreen, android 7 and up</string>
+    <string name="changebothscreens">Change both screens</string>
+
+    <string name="differwallpaperschange">Change both screens with different wallpapers, android 7 and up</string>
+    <string name="differwallpapers">Differ wallpapers</string>
+
+    <string name="startaproximatetry">This try to change every hour (ignoring Set time to change wallpaper)</string>
+    <string name="startaproximate">Start aproximate each hour</string>
+
+    <string name="setInitialDelaybody">Set Initial delay for the first time in minutes (ignoring Start aproximate each hour)</string>
+    <string name="setInitialDelay">Set Initial Delay</string>
+
+    <string name="cropwallpaperadjust">Crop the wallpaper to adjust screen device</string>
+    <string name="cropwallpapertitle">Crop wallpaper</string>
+
+    <string name="launchnotificationshow">Show a notification each time can change wallpaper</string>
+    <string name="launchnotification">Launch notification</string>
+
+    <string name="deviceIdlechange">Only change the wallpaper when device is Idle but retry attempt is disabled, android 6.0 and up</string>
+    <string name="deviceIdle">Device Idle</string>
+
+    <string name="networkTypechange">Only change the wallpaper with the selected network: %s</string>
+    <string name="networkType">Network Type</string>
+
+    <string name="notchangebatteryNotLow">Not change the wallpaper when battery is low</string>
+    <string name="batteryNotLow">Battery Not Low</string>
+
+    <string name="notchangestoragenotlow">Not change the wallpaper when Storage is low</string>
+    <string name="storagenotlow">Storage Not Low</string>
+
+    <string name="needloginforsaveinaccount">You need Sign in to backup your data online.</string>
+    <string name="needloginforsaveinaccountrestore">You need Sign in to restore your data.</string>
+
+    <string name="removedbookmarks">Removed from favorites</string>
+
+    <string name="reintentando">Retrying get image list</string>
+    <string name="reintentandobody">There may be no results or no internet connection</string>
+    <string name="sinresultados">Without results</string>
+    <string name="errorloadinglist">Loading Error</string>
+
+    <string name="wallpaperloadinglist">Loading Wallpapers</string>
+    <string name="infoloading">You will be informed in case of any errors.</string>
+
+
+    <string name="youneedpermissions">You need to allow necessary permissions in Settings manually</string>
+    <string name="notidenied">Core fundamental are based on these permissions</string>
+
+
+    <string name="downloads">⭐ WALLPAPERS</string>
+    <string name="akimejiss" translatable="false">⭐ AKIMEJI</string>
+    <string name="taglimit">✔️Tag limit from 2 to 12</string>
+    <string name="pagelimit">✔️Page Limit: from 1000 to 5000</string>
+    <string name="searchtimeout">✔️Search Timeout from 3 sec to 9 sec</string>
+    <string name="favoriteslimit">✔️Favorites limit from 10 to Unlimited</string>
+    <string name="favoritesbackup">✔️Favorites are backup in your account </string>
+    <string name="downloadimageoriginal">✔️Downloaded images are now in original quality</string>
+    <string name="concurrentdownload">✔️Concurrent download from 1 to 150</string>
+    <string name="autoretry">✔️Auto retry download max attempts 1 to 200</string>
+    <string name="retryonnetworkgain">✔️Retry on Network Gain: ON</string>
+    <string name="downloadnowinparallel">✔️Downloads are now in PARALLEL mode instead of sequential</string>
+
+    <string name="premiumsupport">✔️Premium support</string>
+
+    <string name="unlockAnimations">️Unlock +12 animations</string>
+    <string name="unlockAnimationsshop">✔️Unlock +12 animations</string>
+    <string name="unlockPhysics">️Unlock physics</string>
+    <string name="unlockPhysicsshop">✔️Unlock physics</string>
+    <string name="unlockPremiumContent">✔️Unlock Premium content</string>
+    <string name="unlockADS">✔️No Ads/Advertising</string>
+    <string name="allSlots">✔️All Slots Unlocked</string>
+    <string name="vipUser">VIP User!</string>
+    <string name="supportThisApp">~Support this app and get future content!</string>
+
+
+    <string name="limitsearch">You cannot search for more than 12 tags at a time. Subscribe to increase the limit.</string>
+
+    <string name="titlewallpapersannunce">New section of wallpapers available from the menu!</string>
+    <string name="titlewallpapersannuncebody">Thanks to all the subscribers and users who made this possible,
+we are always working on new features, wait for them! this time focused on wallpapers.
+We want to give the best to our subscribers by adding more value.</string>
+    <string name="genial">Cool!</string>
+
+
+    <string name="downloadreport">Progress</string>
+    <string name="downloadagain">Download Again?</string>
+
+    <string name="adloaded">Reward loaded get your 200 candys now!</string>
+
+    <string name="waitingnetwork">Waiting Network</string>
+    <string name="downloadstart">Download Started</string>
+    <string name="downloadfail">Download Fail</string>
+    <string name="downloadcomplete">Downloaded!</string>
+
+    <string name="consent">Confirm that you reached the majority of age in your country</string>
+    <string name="policyexplain">By accepting you confirm that you are of legal age and that there may be sensitive content or it could be annoying for some people. All the material in this section are previously moderated and SFW (Safe for Work) without exceptions.</string>
+    <string name="agree">Confirm</string>
+
+    <string name="share">Share</string>
+    <string name="shareto">Share To:</string>
+    <string name="areyousurewallpaper">Are you sure?</string>
+    <string name="mantenpresionado">Long click in set as wallpaper for more options.</string>
+    <string name="quickapply">Quick Apply</string>
+
+    <string name="homescreen">Home Screen.</string>
+    <string name="lockscreen">Lock Screen.</string>
+    <string name="lockscreenandlockscreen">Home Screen and Lock Screen.</string>
+
+    <string name="cropwallpaper">Edit Wallpaper</string>
+    <string name="cropwallpaperdetails">Flip image, crop, rotate and set as Home Screen with or without Lock Screen.</string>
+    <string name="iniciarcrop">Start Edit</string>
+
+    <string name="imagedetails">Image Details</string>
+    <string name="restart">Restart to apply update</string>
+    <string name="intentawallpaper">After logging in, try to add the image</string>
+    <!-- Text Hints -->
+    <string name="hint_search_photos_text_str">Ex: blue_sky, cloud, 2girl, -landscape</string>
+    <string name="hint_search_photos_text_strWallhaven">Ex: all, anime, general, people, ga, -gp, 4k</string>
+
+    <string name="itemadquirido">You already have this feature</string>
+    <string name="estasseguro">Are you sure you want to buy it? Cost 4100 candies.</string>
+    <string name="estasseguroanimation">Are you sure you want to buy it? Cost 5200 candies.</string>
+    <string name="allunlock">All features unlocked!</string>
+    <string name="buysomefeatures">Acquire upgrades</string>
+
+    <string name="activesub">You have an ACTIVE SUBSCRIPTION!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="viewad">Do you want to see the ad anyway?</string>
+    <string name="adloadd">Ad successfully loaded, wait a few seconds when you see this message and click the watch ads button.</string>
+    <string name="limitview">Ad view limit: 20 Ads each 2 minutes</string>
+    <string name="candysreward">Get 100 candies for each ad view!</string>
+    <string name="buycandiest2">Buy this slot for 3900 candies!</string>
+    <string name="buycandiest1">Buy this slot for 5000 candies!</string>
+    <string name="visitshop">You can buy it or visit the shop</string>
+    <string name="visitshop2">Visit Shop</string>
+    <string name="salir">Exit</string>
+    <string name="areyousure">Are you sure want to exit the Akimeji-App? (App stays in background)</string>
+    <string name="adfail">Ad failed to load, for retry: refresh this view.</string>
+    <string name="needlogin">You need Sign in to use this feature.</string>
+    <string name="first">First, select an Akimeji</string>
+    <string name="rewardnoload">The rewarded ad wasn\'t loaded yet, trying to load.</string>
+
+    <string name="visitauthorpage">Do you want to visit the author\'s page?</string>
+    <string name="visitauthorpagemessage">It will open in your default browser</string>
+
+    <!-- ofucate -->
+    <!--<string name="accesskey" hidden="true" translatable="false">AXGHSTC4XE7FM7IKSKMN</string>
+    <string name="secretkey" hidden="true" translatable="false">h/u8ohVAnOBzF6SqHhWOrVx/gPGkDIe9daIy6zUP+94</string>
+-->
+    <!-- ADS -->
+    <string name="trydaysfreeafter">Try 3 days free, after</string>
+    <string name="trydaysfreeafter2">/3mo, cancel in any time</string>
+    <string name="monthads">/3month</string>
+
+    <!-- MONTH -->
+    <string name="monthly">Monthly 🔥</string>
+    <string name="mo">/mo</string>
+    <string name="after">, after </string>
+    <string name="mocancelanytime">/mo, cancel in any time</string>
+    <string name="tryonemonth">Try 1 month at</string>
+    <string name="monthrewars">*AkimejiT1 +7 Slots, +12 Animations, +New physics\n*AkimejiT2 +8 Slots\n*No Ads/Advertising!</string>
+    <!-- THREE MONTH -->
+    <string name="monthlytreetitle">3 Month Subscription</string>
+    <string name="monthlytreemo">/3mo</string>
+    <string name="trytreemo">Try 3 months at </string>
+    <string name="treemocancel">/3mo, cancel in any time</string>
+    <!-- ONE YEAR -->
+    <string name="oneyeartitle">Yearly ❤️</string>
+    <string name="oneyear">/1yr</string>
+    <string name="tryyear">Try 1 year at </string>
+    <string name="cancelyear">/yr, cancel in any time</string>
+
+
+    <string name="sign_in_why">Sign in with Google play games to share your scores and achievements with your friends.
+    </string>
+
+    <string name="shr_app_name">Shimeji</string>
+
+    <string name="anti_clock_spin">Anti Clock Spin</string>
+
+    <string name="loading_server">Loading online akimejis</string>
+    <string name="enable_shimeji">Enable Akimeji</string>
+    <string name="enable_shimejit2">Enable Padoru</string>
+    <string name="tap_to_download">Tap to download</string>
+    <string name="download_finish">Tap to add it</string>
+    <string name="download_error">Error, try later</string>
+    <string name="animation_speed">Animation Speed</string>
+    <string name="shimeji_size">Akimeji Size</string>
+    <string name="at_last_one">Akimeji will not be displayed until you select one from the list.</string>
+
+    <string name="author_thanks1">Many thanks to the artists listed below.
+        They created the art necessary to encourage the shimejis and made it available to the public, free of charge.
+    </string>
+    <string name="channel_description">Allows user to quickly hide/show Akimeji from notification</string>
+    <string name="channel_name">Toggles</string>
+    <string name="downloading">Downloading…</string>
+    <string name="errordownloading">Error</string>
+    <string name="starting">Wait…</string>
+    <string name="onQueued">On Queued…</string>
+    <string name="downloading2">Downloading</string>
+    <string name="loading">Loading</string>
+    <string name="oops">Oops! Something went wrong</string>
+    <string name="server_down">Check your internet connection. Please come back later.</string>
+
+    <string name="shimeji_notif_disable">Tap to hide your Akimeji</string>
+    <string name="shimeji_notif_disable2">Tap to hide your Akimeji T2</string>
+    <string name="shimeji_notif_enable">Tap to show your Akimeji</string>
+    <string name="shimeji_notif_enable2">Tap to show your Akimeji T2</string>
+    <string name="shimeji_notif_hidden">Akimeji are hidden</string>
+    <string name="shimeji_notif_hidden2">Akimeji are hidden  T2</string>
+    <string name="shimeji_notif_visible_lockscreen">Akimeji no running on lockscreen</string>
+    <string name="shimeji_notif_visible_lockscreen2">Akimeji T2 no running on lockscreen</string>
+    <string name="shimeji_notif_visible_lockscreen_subtitle">and is stop</string>
+    <string name="shimeji_notif_visible">Akimeji are visible</string>
+    <string name="shimeji_notif_visible2">Akimeji T2 are visible</string>
+    <string name="UPDATE_EVENT_TOKEN" translatable="false">preferences.increment</string>
+
+    <string name="akimejiselector" translatable="false">akimejiselector</string>
+
+    <string name="despedida">GOOD DAY. THANK YOU ALL</string>
+
+    <string name="inicio">Hello!, It\'s been a long time since I released the first version of Akimeji since then many changes under the hood have happened,</string>
+    <string name="inicio2">in this update for the first time\npaid subscriptionsare available\nalong with a free trial without ads,</string>
+    <string name="inicio3">many of you I have always been asked for more shimejis, more actions, more and more things,
+        it is impossible to achieve without money\nand that is especially true for this kind of application,
+        that is why through subscriptions\nI enable a financing channel for new Akimejis and new features never before views!,</string>
+
+    <string name="inicio4">If this works I could launch more Shimejis per month, paid servers to create new features</string>
+    <string name="large_text">
+        "Possibly including trade and integration with Blockchain probably ethereum
+        In addition to communities and chats,these are just possibilities
+        That I would love to achieve with your support, a version for huawei and a version with another payment system outside the playstore that can be downloaded from our official website is on the way!"
+    </string>
+
+    <string name="reward_view_ads_to_get_points">Reward, view Ads to get 200 Candys!</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="mensajecuandohayaconexion">The message will send when you have internet connexion. Please do not submit your private information</string>
+    <string name="sendFeedBack">Send us your FeedBack</string>
+    <string name="sendFeedBack2">FeedBack</string>
+    <string name="success">Message sent succesfully</string>
+    <string name="successlogin">Success Login</string>
+    <string name="enviar">Send</string>
+    <string name="cancelar">Cancel</string>
+    <string name="establecer">Set</string>
+    <string name="close">Close</string>
+    <string name="unlock">Unlock</string>
+    <string name="goals">Goal</string>
+    <string name="subscribers">subscribers</string>
+
+    <string name="subfordownload">Subscribe to download</string>
+    <string name="visitarTienda">Visit Store?</string>
+    <string name="visitarTienda2">Visit Store</string>
+
+
+    <string name="terminos">Payment is made through Google Play Store after confirming the purchase. The subscription is automatically renewed at the end of the current period unless it is closed 24 hours in advance, and the cancellation takes effect at the end of the current period. You can manage your subscriptions and disable automatic renewal in your Google Play Store account settings. No charge will be made to subscriptions that are canceled during the test.</string>
+    <string name="selectSubscription">Select Subscription</string>
+
+
+    <string name="onlypremium">Only premium account.</string>
+
+
+    <string name="firstgoal">Our First Goal</string>
+    <string name="firstgoalDetails">More akimejis may be possible at least 1 per month and akimejis for tier 2 (T2).\n*Goals are not final and will be updated, the number is updated every month.</string>
+
+    <string name="secondgoal">Our Second Goal</string>
+    <string name="secondgoalDetails">More akimejis may be possible at least 2 per month, more effort in the app development and release a store.\n*Goals are not final and will be updated, the number is updated every month.</string>
+
+    <string name="tercergoal">Our Third Goal</string>
+    <string name="tercergoalDetails">More akimejis may be possible at least 4 per month, full time development.\n*Goals are not final and will be updated,t he number is updated every month.</string>
+
+    <string name="fourgoal">Our Four Goal</string>
+    <string name="fourgoalDetails">More akimejis may be possible +4 per month with Full Body Portrait.\n*Goals are not final and will be updated, the number is updated every month.</string>
+
+    <string name="pandemicMessageTitle">Emergency meeting!</string>
+    <string name="pandemicMessage">Due to a global pandemic, the release of new akimejis is affected, but development continues and we hope to release new content throughout 2021, thank you all for your support.</string>
+    <string name="ratedialog">Remember you can send feedback in the menu of this app</string>
+    <string name="exito">Success</string>
+    <string name="shop">Shop</string>
+    <string name="sindulces">You don\'t have enough candy</string>
+    <string name="home">Home</string>
+    <string name="feedback">FeedBack</string>
+    <string name="settings">Settings</string>
+    <string name="appearence">Appearence</string>
+    <string name="credits">Credits</string>
+    <string name="darkmode">Dark Mode: OFF</string>
+    <string name="darkmode2">Dark Mode: ON</string>
+    <string name="darkmode3">Dark Mode: SYSTEM</string>
+    <string name="getWallpaper">Get Wallpaper</string>
+    <string name="setWallpaper">Set Wallpaper</string>
+    <string name="doubletap">Double tap hides Akimeji for:</string>
+    <string name="setminutes">Set Minutes</string>
+    <string name="despues2">After</string>
+    <string name="despues">After 1 month</string>
+    <string name="vermas">View more</string>
+
+    <string name="borrarCache">Clear Cache</string>
+    <string name="entendido">Ok!</string>
+    <string name="banners">Subscribe now and get one-time discount!</string>
+    <string name="thanks">Thank you so much🤍</string>
+    <string name="clearcache">"Cache removed!"</string>
+
+    <string name="ghiphymenu">Ghiphy</string>
+    <string name="notasdeversion">Release Notes</string>
+    <string name="notasdeversionbody">
+        v1.9.9.2:\n
+        * New: Appearence Menu.\n
+        * Maintenance: Many updates in core libs some in alpha state.\n
+         v1.9.8:\n
+        * Maintenance: Many updates in core libs.\n
+         v1.9.7:\n
+        * New: Classic Mode for shimejis added in settings, this is the original behavior.\n
+        * New: Shimejis and Padorus with premium features are now free.\n
+        * New: Old buyers now no have ads.\n
+        * New: In random wallpapers we add new network type TEMPORARILY_UNMETERED, is a new feature only for android 12, fallback to CONNECTED.\n
+        * Maintenance: Performance improvements and all core libs updated.\n
+        * Tested in android 12.\n
+         v1.9.6:\n
+        * New: As a subscriber, you can add 5 accounts to give them premium!.\n
+        * Maintenance and update of the general state of the application.\n
+         v1.9.5:\n
+        * New: Restore favorites now works! if you are a subscriptor the backup is automatic.\n
+        * Fix: many translations.\n
+        v1.9.4:\n
+        * New: Settings in wallpaper now have randoms smart wallpapers!.\n
+        * Fix: navigation and back button no longer fire a dialog.\n
+        * Prices altered to be more fair.\n
+        * Fixed a bug that does not allow searching for 2 tags in danbooru.\n
+        v1.9.2-3:\n
+        * Fix UI-UX and manage better errors.\n
+        v1.9.1:\n
+        * Handle edge cases and loading screens with error catch.\n
+        * Fix button width in dialog .\n
+        * Fix tags and spanish translate of premium content.\n
+         v1.9.0:\n
+        * New: Wallpapers! access them from the lateral menu.\n
+        * Wallpapers: long press in set wallpaper for view more options.\n
+        * Wallpapers: share button, download, view original resolution.\n
+        * Wallpapers: add to favorite internally differences from two sourcers.\n
+        * Premium: now suscribers can save favorites in your account so persists in the time.\n
+        * Premium: dowload in parallel, retry increased, max simultaneous download increased.\n
+        * Remove deprecated code from ads and update all internal dependencies.\n
+        * Change image from menu.\n
+        * New lower prices for latam.\n
+        * Promo suscripcion updated to two months.\n
+        * Removed a variety of toast.\n
+        * A lot of unmetered changes in background .\n
+        v1.8.3:\n
+        * Added a placeholder with pastel colors before loading an image in banners.\n
+        * Remove deprecated kotlin synthetics in favor of ViewBinding and DataBinding.\n
+        * Loading splash screen Akimeji Logo.\n
+        * Other small changes.\n
+        v1.8.2:\n
+        * Added over +327 shimejis.\n
+        * Tap in the name to view the serie name.\n
+        * Max download attempts 14.\n
+        * Download priority default High.\n
+        * Download progress now report every 200ms.\n
+        * Randomized banner images.\n
+        * Errors handled in ad loading.\n
+        * Updated: Kotlin v1.4.21.\n
+        * All others dependencies updated 12/14/2020.\n
+        * Target android API 30 (11).\n
+        * Quality guarantee: Video Live Wallpaper uses ExoPlayer in its latest version 2.12.2 released on 12/14/2020\n
+        v1.8.1:\n
+        * Removed unnecessary permission Read_Phone_State.\n
+        * Improvement loading reward ads.\n
+        v1.8.0:\n
+        * Ultimate Video with high tech as Live Wallpaper in settings menu.\n
+        * Fix many bugs in the UI.\n
+        * Hacky fix ads random appears.\n
+        * Update all dependencies to last experimental version (we live in the edge).\n
+        * New Padorus and clear cache option.\n
+        * Live Wallpaper, now the Akimeji is under other apps!.\n
+        Others:\n
+* Updated interface, Material Design and dark theme.\n
+* Fixed connection problems.\n
+* Lag was eliminated in multiple situations.\n
+* Better performance by having multiple shimejis on screen.\n
+* Mimic between shimejis was removed.\n
+* Improved notifications.\n
+* Shimejis are smarter and don\'t stay on the floor that long.\n</string>
+
+    <string name="showNotification">Show Notification</string>
+    <string name="choosevideofile">Pick video file</string>
+    <string name="copyright">Send a message to support@akimeji.com</string>
+    <string name="copyright2">Some authors couldn\'t be identified so please get in touch if your name is missing or have any other claim.</string>
+    <string name="singningoogle">Signin with Google</string>
+    <string name="buy">Buy!</string>
+    <string name="copyrightReport">Copyright</string>
+    <string name="image">Image</string>
+    <string name="tags">Tags:</string>
+    <string name="fecha">Date:</string>
+    <string name="autor">Artist:</string>
+    <string name="resolucion">Resolution:</string>
+    <string name="widthheight">(Width/Heigh)</string>
+    <string name="viewswallpaper">Views:</string>
+    <string name="loadingName">Loading…</string>
+    <string name="suscribeWallpaper">Subscribe now!</string>
+    <string name="favoritos">Favorites</string>
+
+
+    <string name="popular">Popular</string>
+    <string name="saved">Saved</string>
+    <string name="newImages">New</string>
+    <string name="drawer_item_popular">Popular</string>
+    <string name="drawer_item_new">New</string>
+    <string name="drawer_item_bookmarks">Favorites</string>
+    <string name="loading_wallpaper">Loading Wallpaper</string>
+    <string name="bookmarks">Favorites</string>
+    <string name="remove_string">remove</string>
+    <string name="remove_from_bookmarks">Remove Favorite</string>
+    <string name="image_already_bookmarked">Image already in favorites</string>
+    <string name="remove_from_bookmarks_qm">Remove from favorites?</string>
+    <string name="About_string">About</string>
+    <string name="large_image_warning">Large images may take longer to load on slow connections.</string>
+    <string name="download">Download</string>
+    <string name="view_original">view original resolution</string>
+    <string name="add_to_bookmark">Add to favorite</string>
+    <string name="curated">New</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="no_internet">No Internet Connection, please check and try again!</string>
+    <string name="currently_offline">Currently Offline.</string>
+    <string name="failed_to_load">Failed to Load current Image.</string>
+    <string name="bookmarks_is_empty">Favorites list is empty</string>
+    <string name="added_success_bookmark">Added to Favorites!</string>
+    <string name="bookmark_activity">BookmarkActivity</string>
+    <string name="high_res_image">high res image</string>
+    <string name="recycler_view_item">recycler View Item</string>
+    <string name="originalresolution">Original Resolution</string>
+
+
+    <string name="wallpapers">Wallpapers</string>
+    <string name="info_button">Info button</string>
+    <string name="freeaccounts">✔️Get 5 Free Premium Accounts</string>
+    <string name="noexisteemail">The email has not yet been registered in this app, login first</string>
+    <string name="activar_modo_clasico">Enable default mode</string>
+    <string name="remove_ads_in_this_seccion_by_one_time_purchase">Remove Ads forever in this seccion by One-Time Purchase of:</string>
+    <string name="click_here">Click here</string>
+    <string name="click_buy">Buy here</string>
+    <string name="click_buy2">Remove ads</string>
+    <string name="click_buy3">Purchase now!</string>
+    <string name="thanksforpurchase101">Thanks ❤️</string>
+    <string name="loadinghomeshimeji">Loading…</string>
+    <string name="crear_un_servidor">New Room</string>
+    <string name="opciones">Options</string>
+    <string name="changename">Change Name SV</string>
+    <string name="changeavatarserver">Change Icon</string>
+    <string name="serverarchived">Server Archived</string>
+</resources>
