@@ -9,7 +9,7 @@ import retrofit2.http.Url
 import com.redbox.shimeji.live.shimejilife.data.dataAkimejiT2.PacksResponse
 
 interface ApiService {
-    @GET("/packs/packv3.json")
+    @GET("/packv3.json")
     suspend fun getPacks(): Response<PacksResponse>
 
     @GET

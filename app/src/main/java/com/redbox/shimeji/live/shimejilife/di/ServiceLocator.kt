@@ -34,7 +34,8 @@ object ServiceLocator {
     // Retrofit + Api
     private val retrofitShimeji: Retrofit by lazy {
         Retrofit.Builder()
-            .baseUrl("https://akimeji.com/")
+            //.baseUrl("https://akimeji.com/")
+            .baseUrl("https://pub-4020faa2eb344de8a8cd30d8f6524dc5.r2.dev/")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
     }

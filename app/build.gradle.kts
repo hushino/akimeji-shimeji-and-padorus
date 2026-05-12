@@ -14,14 +14,14 @@ android {
         }
     }
     namespace = "com.redbox.shimeji.live.shimejilife"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.redbox.shimeji.live.shimejilife"
         minSdk = 28
-        targetSdk = 36
-        versionCode = 280
-        versionName = "2.0"
+        targetSdk = 37
+        versionCode = 281
+        versionName = "2.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
