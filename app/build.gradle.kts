@@ -13,7 +13,11 @@ java {
 android {
     signingConfigs {
         create("release") {
-
+//            keyAlias = ""
+//            keyPassword = ""
+//            storeFile = file("")
+//            storePassword = ""
+//            enableV4Signing = true
         }
     }
     namespace = "com.redbox.shimeji.live.shimejilife"
