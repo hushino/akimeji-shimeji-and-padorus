@@ -154,3 +154,7 @@ Contributions are welcome!
 ## License
 
 MIT (or repository license). See `LICENSE` if present.
+
+<div align="center">
+    <img src="https://count.getloli.com/@akimeji-shimeji-and-padorus?name=hushino01&theme=booru-qualityhentais&darkmode=auto"/>
+</div>
